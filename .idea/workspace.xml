@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="dc3d3043-b0c2-49e6-97fc-01c7ff14731c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< Updated upstream
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/info.php" afterPath="$PROJECT_DIR$/info.php" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="test-git.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,6 +38,21 @@
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
+=======
+      <file leaf-file-name="info.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/info.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+              <folding>
+                <element signature="e#6#86#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> Stashed changes
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -170,12 +189,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477436413172</updated>
+<<<<<<< Updated upstream
       <workItem from="1477436415215" duration="1491000" />
+=======
+      <workItem from="1477436415215" duration="2540000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="1491000" />
+=======
+    <option name="totallyTimeSpent" value="2540000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -236,5 +263,18 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
+=======
+    <entry file="file://$PROJECT_DIR$/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> Stashed changes
   </component>
 </project>
