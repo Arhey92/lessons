@@ -6,3 +6,5 @@
  * Time: 2:37
  */
 echo 'We can do this!';
+
+echo 'Have a nice day!!';
