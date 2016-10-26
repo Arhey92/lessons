@@ -16,7 +16,7 @@
 </head>
 <body>
     <span>
-        Hi, im your new php file!
+        Hi, im your new php file! Lol
     </span>
 </body>
 </html>
