@@ -24,3 +24,6 @@ You should do pull.
 $ git pull origin master
 
 $ git push -u origin master
+
+# Example of team work with project
+http://prntscr.com/cz2uer
